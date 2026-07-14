@@ -1,19 +1,18 @@
 {
   "name": "Umut Ardan",
-  "amount": 1000,
-  "paid": 0,
+  "amount": 1100,
+  "paid": 4,
   "debtDate": "2026-06-01",
   "faizPerDay": 1.99,
   "photo": "",
-  "note": "Borç yiğidin kamçısıdır ama bu kadar da olmaz Umut.",
+  "note": "mağdur durumdayız borcumuz odenmedi",
   "messages": [
-    "Param nerede Umut?",
-    "1000 TL dediğin nedir ki? Öde gitsin.",
-    "Umut, bu site senin yüzünden var.",
-    "Bir kahve ısmarlasan bu siteyi kapatırız. Şaka şaka, önce 1000 TL.",
-    "Dolar yükseliyor, borcun eriyor Umut. Acele et, kârdasın!",
-    "Umut'un borcu, Umut'tan büyük.",
-    "Bu borç ödenmezse düğününde anons ettireceğim.",
-    "IBAN hâlâ aynı Umut. Bahane yok."
+    "Param nerde ananı sikerim",
+    "alikodan alırım parayı vermssen",
+    "Umut polat arda, bu site senin yüzünden var.",
+    "Escorta gotursen siteyide borcuda kaparım !!!",
+    "Maaş yattığı an paramı yolla",
+    "Bu borç ödenmezse ananı sikceğim",
+    "IBAN ım hala aynı değişmedi bilgin olsun arda!"
   ]
 }
